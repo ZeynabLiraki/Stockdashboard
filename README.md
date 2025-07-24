@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Introduction
+## 🚀Introduction
 
 This project implements a stock market dashboard using:
 
@@ -40,7 +40,7 @@ This project implements a stock market dashboard using:
 
 ---
 
-## 🛠 Technologies Used
+## 🛠Technologies Used
 
 - ⚛️ **React 18** – UI framework
 - 🟦 **TypeScript** – Static typing
@@ -53,7 +53,7 @@ This project implements a stock market dashboard using:
 
 ---
 
-## ⚙️ Setup and Installation
+## ⚙️Setup and Installation
 
 Clone the repository and run the app locally:
 
@@ -68,8 +68,6 @@ npm install
 npm start
 Open your browser at:
 🔗 http://localhost:3000/
-
-📝 Note: The app uses a demo API key. You can replace it in src/utils/services.ts for full access.
 
 
 
